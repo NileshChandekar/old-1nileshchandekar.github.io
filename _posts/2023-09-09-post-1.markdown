@@ -1,0 +1,8 @@
+---
+title: "Post 1"
+layout: post
+date: 2023-09-09 22:44
+image: /assets/images/markdown.jpg
+star: true
+category: jeklly
+---
