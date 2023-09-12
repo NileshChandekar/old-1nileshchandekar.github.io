@@ -9,8 +9,7 @@ github_username: "NileshChandekar"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-#theme: "minima"
-dark-theme: auto
+theme: "minima"
 
 
 
@@ -19,8 +18,15 @@ kramdown:
     disable: true
     
 plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
   - jekyll-feed
-  - jekyll-sitemap
+  - jemoji
+  - jekyll-paginate-v2
+
+#plugins:
+#  - jekyll-feed
+#  - jekyll-sitemap
 
 titles_from_headings:
   strip_title: true
