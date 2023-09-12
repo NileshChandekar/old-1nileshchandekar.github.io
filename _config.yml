@@ -9,7 +9,9 @@ github_username: "NileshChandekar"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+#theme: "minima"
+dark-theme: auto
+
 
 
 kramdown:
