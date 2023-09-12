@@ -15,10 +15,7 @@ author: johndoe
 description: Markdown summary with different options
 ---
 
-{% highlight raw %}
-![Markdowm Image][https://github.com/NileshChandekar/nileshchandekar.github.io/blob/main/images/multi-region-osa-deploy.gif]
-{% endhighlight %}
 
-![images](https://github.com/NileshChandekar/nileshchandekar.github.io/blob/main/images/multi-region-osa-deploy.gif)
+![images](/images/multi-region-osa-deploy.gif)
 
 
