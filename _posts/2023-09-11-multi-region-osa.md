@@ -4,7 +4,7 @@
 title: "Markdown Common Elements"
 layout: post
 date: 2016-02-24 22:44
-image: /assets/images/markdown.jpg
+image: https://github.com/NileshChandekar/nileshchandekar.github.io/blob/main/images/multi-region-osa-deploy.gif
 headerImage: false
 tag:
 - markdown
@@ -15,7 +15,9 @@ author: johndoe
 description: Markdown summary with different options
 ---
 
-
+{% highlight raw %}
+![Markdowm Image][https://github.com/NileshChandekar/nileshchandekar.github.io/blob/main/images/multi-region-osa-deploy.gif]
+{% endhighlight %}
 
 ![images](https://github.com/NileshChandekar/nileshchandekar.github.io/blob/main/images/multi-region-osa-deploy.gif)
 
